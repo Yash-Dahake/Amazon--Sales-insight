@@ -4,8 +4,7 @@
 Amazon Year-wise Sales Dashboard
 
 Interactive Power BI dashboard showcasing Amazon’s year-wise sales (2012–2015). Features include KPI metrics, segment and market sales breakdowns, regional insights via map, customer profit analysis, and top/bottom product profitability, enabling clear performance tracking and decision-making.
-📸 Dashboard Preview
-<img width="1268" height="703" alt="dashboard-screenshot png" src="https://github.com/user-attachments/assets/8af09d6f-ef00-4be1-89ad-7f03c465e2f7" />
+
 
 ## 📝 Short Description
 Interactive Power BI dashboard analyzing Amazon’s sales performance from 2012 to 2015.  
@@ -30,6 +29,9 @@ It includes yearly sales figures, customer details, product categories, and regi
 - **Sales by Market**: Regional distribution across Asia Pacific, Europe, USCA, LATAM, and Africa.  
 - **Geographical Insights**: World map showing sales distribution by region.  
 - **Customer Profit Analysis**: Top customers ranked by profit contribution.  
-- **Product Profitability**: Top 5 and Bottom 5 products by profit.  
+- **Product Profitability**: Top 5 and Bottom 5 products by profit.
 
+# Screenshot
+
+https://github.com/Yash-Dahake/Amazon--Sales-insight/blob/main/dashboard-screenshot.png..png
 ---
